@@ -103,6 +103,5 @@ For a detailed walkthrough of the setup process, watch the [Setup Demo Video](ht
 ├── docs/
 │   ├── Privacy_Policy.pdf    # Privacy policy for the Alexa Skill
 │   ├── Terms_of_Use.pdf      # Terms of use for the Alexa Skill
-│   └── Setup_Guide.pdf       # Comprehensive setup guide
 └── README.md                 # Main documentation for the repository
 
