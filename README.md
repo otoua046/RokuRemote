@@ -76,6 +76,9 @@ For a detailed walkthrough of the setup process, watch the [Setup Demo Video](ht
 3. **AWS Lambda:** The Lambda function interprets the request and publishes a command to AWS IoT.
 4. **AWS IoT:** AWS IoT securely forwards the command to the ESP32.
 5. **ESP32:** The ESP32 receives the command and sends the appropriate HTTP request to the Roku TV using ECP.
+   
+<img width="368" alt="image" src="https://github.com/user-attachments/assets/8e2e864b-5df4-4048-bb26-cd1843552beb" />
+
 
 ---
 
