@@ -110,5 +110,5 @@ For a detailed walkthrough of the setup process, watch the [Setup Demo Video](ht
 ```
 
 ## User Manual
-[Setup Demo Video](https://uottawa-my.sharepoint.com/personal/otoua046_uottawa_ca/_layouts/15/guestaccess.aspx?share=EYwtzC3w3i1LjgVeNLe3DhYBhuQCrBsfsGcV2V70MKKiKA&e=bCAQHE)
+[User Manual](https://uottawa-my.sharepoint.com/personal/otoua046_uottawa_ca/_layouts/15/guestaccess.aspx?share=EYwtzC3w3i1LjgVeNLe3DhYBhuQCrBsfsGcV2V70MKKiKA&e=bCAQHE)
 
