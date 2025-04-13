@@ -65,7 +65,7 @@ To use this system, users must set up the following:
 ---
 
 ### **Setup Demo Video**
-For a detailed walkthrough of the setup process, watch the [Setup Demo Video]([https://share.icloud.com/photos/001LS_O4mv5t3VmgZr-0Iz4tA](https://drive.google.com/file/d/1V-6074Cacwz3svI_soFP5iYv7Of6Tdr5/view?usp=sharing)).
+For a detailed walkthrough of the setup process, watch the [Setup Demo Video](https://drive.google.com/file/d/1V-6074Cacwz3svI_soFP5iYv7Of6Tdr5/view?usp=sharing).
 
 ---
 
@@ -107,7 +107,7 @@ For a detailed walkthrough of the setup process, watch the [Setup Demo Video]([h
 │   ├── Privacy_Policy.pdf    # Privacy policy for the Alexa Skill
 │   ├── Terms_of_Use.pdf      # Terms of use for the Alexa Skill
 └── README.md                 # Main documentation for the repository
-
+```
 
 ## User Manual
 [Setup Demo Video](https://uottawa-my.sharepoint.com/personal/otoua046_uottawa_ca/_layouts/15/guestaccess.aspx?share=EYwtzC3w3i1LjgVeNLe3DhYBhuQCrBsfsGcV2V70MKKiKA&e=bCAQHE)
