@@ -2,7 +2,7 @@
 #define AWS_CREDENTIALS_H
 
 // MQTT Broker details
-const char* mqtt_server = "a1ifmp9k0l7mdx-ats.iot.us-east-1.amazonaws.com";
+const char* mqtt_server = "URL";
 const int mqtt_port = 8883;
 const char* mqtt_topic = "iot/roku/control";
 
